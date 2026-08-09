@@ -48,4 +48,4 @@ The script leverages window functions, recursive CTEs, and cohort segmentation t
 - Extend CLV calculation to include future purchase probability using a Pareto/NBD model.
 
 ## Author
-[Your Name/Username]
+Samrat Patil
